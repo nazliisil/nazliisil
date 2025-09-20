@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello! 👩‍💻 
+💁‍♀️I'm Nazlı Işıl Koper, a freshman at Bilkent University. I'm majoring in computer engineering (Bilkent CS). 
+
+💻I've always had passion for the field, I enjoy coding and love computers.
+ 
+🌻I'm currently working on improving my coding skills.
+
+📫 You can reach me on my school or personal email: 
+--> kopernazliisil@gmail.com
+--> isil.koper@ug.bilkent.edu.tr
 
 <!--
 **nazliisil/nazliisil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
