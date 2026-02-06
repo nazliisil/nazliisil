@@ -1,7 +1,7 @@
 ## Hello! 👩‍💻 
 💁‍♀️I'm Nazlı Işıl Koper, a freshman at Bilkent University. I'm majoring in computer engineering (Bilkent CS). 
 
-💻I've always had passion for the field, I enjoy coding and love computers.
+💻I've always had passion for the field.
  
 🌻I'm currently working on improving my coding skills.
 
