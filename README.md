@@ -1,5 +1,5 @@
 ## Hello! 👩‍💻 
-💁‍♀️I'm Nazlı Işıl Koper, a freshman at Bilkent University. I'm majoring in computer engineering (Bilkent CS). 
+💁‍♀️I'm Nazlı Işıl Koper, a sophomore at Bilkent University. I'm majoring in computer engineering (Bilkent CS). 
 
 💻I've always had passion for the field.
  
