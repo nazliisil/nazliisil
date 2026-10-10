@@ -3,7 +3,7 @@
 
 💻I've always had passion for the field.
  
-🌻I'm currently working on improving my coding skills.
+🌻I'm currently working on full-stack development.
 
 📫 You can reach me on my school or personal email: 
 --> kopernazliisil@gmail.com
